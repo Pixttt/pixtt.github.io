@@ -1,33 +1,6 @@
 # pixtt.github.io
 <!DOCTYPE html>
-<html>
-<head>
-<style>
-body {
-  background-color: #ffA500;
-  color: white;
 
-h1  {
-  background-color: green;
-  color: white;
-  text-align: center;
-  font-family: Comic Sans MS;
-  font-size: 100px;
-}
-
-p   {
-  background-color: #ffA500;
-  color: #f3ffff;
-  color: white;
-  text-align: center;
-  font-family: Comic Sans MS;
-  font-size: 50px;
-}
-</style>
-</head>
-
-<body>
-<title>Marisa's squirrels</title>
 
 <h1>My Dogs</h1>
 <p>We have owned 3 dogs over the last 35 years. <br> Our first dog Zephyr was an Australian Kelpie, he passed away in 2005. <br> Rex was a Yorkshire Terrier cross Bichon, he passed away in 2024 at the age of 12 with cushings and diabetes. <br> We attended puppy school with him. <br> We adopted Daisy at the age of 3 from a neighbour.  She is now 12 and possibly missing Rex.  Daisy is a desexed female, fully vaccinated and registered.  </p>
