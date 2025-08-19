@@ -29,25 +29,6 @@
 <!-- FILL IN THE BOX -->
 
 
-<h2>HTML Forms</h2>
-
-<form action="/action_page.php">
-  <label for="fname">First name:</label><br>
-  <input type="text" id="fname" name="fname" value="John"><br>
-  <label for="lname">Last name:</label><br>
-  <input type="text" id="lname" name="lname" value="Doe"><br><br>
-  <input type="submit" value="Submit">
-</form> 
-
-
-
-<!-- INSERT IMAGE WITH A SPECIFIC SIZE —>
-<!-- LOOK AT CSS TAB ON W3SCHOOLS FOR MORE CSS IMAGE formats ie shapes–>
-
-
-<p><img src="smiley.gif" alt="Smiley face" style="float:right;width:42px;height:42px;">
-The image will float to the right of the text.</p>
-
 
 </body>
 </html>
