@@ -4,7 +4,7 @@
 
 <h1>My Dogs</h1>
 
-![miaow](https://i.pinimg.com/564x/b4/3c/6b/b43c6b6cd6f52cc56758aad9bfc56dfa.jpg)
+![miaow](https://i.pinimg.com/1200x/f1/b1/da/f1b1dab2f3015d8be177913bb22c8200.jpg)
 <p>We have owned 3 dogs over the last 35 years. <br> Our first dog Zephyr was an Australian Kelpie, he passed away in 2005. <br> Rex was a Yorkshire Terrier cross Bichon, he passed away in 2024 at the age of 12 with cushings and diabetes. <br> We attended puppy school with him. <br> We adopted Daisy at the age of 3 from a neighbour.  She is now 12 and possibly missing Rex.  Daisy is a desexed female, fully vaccinated and registered.  </p>
 <p>
 <a href="https://en.wikipedia.org/wiki/Australian_Kelpie/">australian Kelpie Information</a>
