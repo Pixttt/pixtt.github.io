@@ -10,9 +10,9 @@
 ![]https://uquiz.com/YourQuiz/Preview/Index/Wd0xtG
 
 
-<h1>press on the link then loser</h1>
+<h1>pretty please click on the link</h1>
 
-<h2>please</h2>
+<h3>please</h3>
 
 
 <!-- CODING FOR LISTS -->
