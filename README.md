@@ -8,7 +8,7 @@
 ## are you worthy enough to be a seal? 
 
 <body>
-![pressme]https://uquiz.com/YourQuiz/Preview/Index/S5wAbM
+![]https://uquiz.com/YourQuiz/Preview/Index/Wd0xtG
 
 
 <h1>press on the link then loser</h1>
